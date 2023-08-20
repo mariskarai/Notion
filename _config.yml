@@ -1,5 +1,6 @@
----
----
+<!DOCTYPE html>
+<html>
+<body style="background-color:rgb(32,28,28);">
 
-@import 'jekyll-theme-cayman';
-background-color: ##201c1c
+</body>
+</html>
